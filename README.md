@@ -1,3 +1,37 @@
+# 関連リンク
+
+https://github.com/reduxjs/cra-template-redux-typescript
+
+React Hook Form  
+https://react-hook-form.com/
+
+Material UI  
+https://material-ui.com/
+
+各種設定まとめ
+
+```
+npx create-react-app my-app --template redux-typescript
+
+yarn add node-sass
+
+yarn add react-hook-form
+
+yarn add @material-ui/core
+
+yarn add @material-ui/icons
+
+
+---
+yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+
+yarn add -D prettier eslint-config-prettier
+
+yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+
+yarn add -D prettier eslint-config-prettier
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
